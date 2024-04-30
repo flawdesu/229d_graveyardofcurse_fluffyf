@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Scenes/Menu.unity
+    guid: a4d14525440046645a387d77237206f8
+  - enabled: 1
+    path: Assets/Scenes/GraveyardOfCruse.unity
+    guid: 0511f11f73f5820448f8c397c12f0950
+  - enabled: 1
+    path: Assets/Scenes/Win.unity
+    guid: c3979caad3875f44d894d7c825a39ab5
   m_configObjects: {}
